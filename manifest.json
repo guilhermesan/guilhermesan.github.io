@@ -1,11 +1,11 @@
 {
-    "name": "deai_app",
-    "short_name": "deai_app",
+    "name": "Guilherme Sant'Ana",
+    "short_name": "Guilhermesan",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
+    "background_color": "#000000",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Live portfolio using Flutter",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
