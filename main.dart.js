@@ -65027,7 +65027,7 @@ $1(a){var s=null,r=a.gn(a),q=B.mU[a.gc3(a)]
 return new A.nt(A.a0l(s,B.mQ[a.gc3(a)],s,r,s,q),s)},
 $S:404}
 A.CI.prototype={
-E(a){return A.cA(A.a([B.m9,B.ma,A.afO(new A.T9(),3,A.afN(!0,B.b6,B.aJ,B.dK,!1,!0,$.bc*90*0.77+90,0.8))],t.p),B.ad,B.o,B.u)}}
+E(a){return A.cA(A.a([B.m9,B.ma,A.afO(new A.T9(),2,A.afN(!0,B.b6,B.aJ,B.dK,!1,!0,$.bc*90*0.77+90,0.8))],t.p),B.ad,B.o,B.u)}}
 A.T9.prototype={
 $3(a,b,c){var s=null,r=B.mX[c],q=B.mU[c]
 return new A.bJ(B.mn,A.a0l(s,B.mQ[c],s,r,s,q),s)},
@@ -65054,7 +65054,7 @@ r=A.bn("Guilherme",$.aiR.Ig(l,B.c1),m,m)
 q=A.bn("Sant'Ana",$.aiS.Ic(1),m,m)
 p=$.e2
 p.toString
-o=A.cX(A.a([A.ml(B.fK,$.cz.a,m),A.afC(A.a([A.l6(" Flutter Developer",B.aw,$.f4),A.l6(" UI/UX Enthusiast",B.aw,$.f4),A.l6(" A friend :)",B.aw,$.f4)],t.u6),!0,!0)],s),B.o,B.u)
+o=A.cX(A.a([A.ml(B.fK,$.cz.a,m),A.afC(A.a([A.l6(" Software Engineer",B.aw,$.f4),A.l6(" Android and Flutter Specialist",B.aw,$.f4),A.l6(" Problem solver",B.aw,$.f4)],t.u6),!0,!0)],s),B.o,B.u)
 n=$.e2
 n.toString
 return A.c3(A.bX(m,A.cA(A.a([i,j,r,q,p,o,n,B.kz],s),B.aI,B.o,B.u),m,m,m,new A.aI(k*10*0.77+10,k*40*0.77+40,0,0),m,m),m,m)}}
@@ -65063,7 +65063,7 @@ E(a){var s,r,q,p,o=null,n="Montserrat",m=a.K(t.w).f.a,l=m.b,k=A.vS(0,A.a_k(new A
 g.toString
 s=A.bn("Guilherme",$.Rz.Ig(n,B.c1),o,o)
 r=A.bn("Sant'Ana",$.afE.Ic(1),o,o)
-q=A.cX(A.a([A.ml(B.fK,$.cz.a,o),A.afC(A.a([A.l6(" Flutter Developer",B.aw,$.f4),A.l6(" UI/UX Enthusiast",B.aw,$.f4),A.l6(" A friend :)",B.aw,$.f4)],t.u6),!0,!1)],i),B.o,B.u)
+q=A.cX(A.a([A.ml(B.fK,$.cz.a,o),A.afC(A.a([A.l6(" Software Engineer",B.aw,$.f4),A.l6(" Android and Flutter Specialist",B.aw,$.f4),A.l6(" Problem solver",B.aw,$.f4)],t.u6),!0,!1)],i),B.o,B.u)
 p=$.a5x
 p.toString
 return A.c3(A.js(B.bj,A.a([k,A.bX(o,A.cA(A.a([h,g,s,r,new A.fb(q,B.aK,B.b6,B.te,o),p,B.kz],i),B.aI,B.o,B.u),o,o,o,new A.aI(j*30*0.77+30,j*50*0.77+50,0,0),o,o)],i),B.bM),l*1.02,o)}}
